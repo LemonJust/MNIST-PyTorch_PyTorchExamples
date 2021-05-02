@@ -35,17 +35,17 @@ The trained model is available [here](https://github.com/iVishalr/MNIST-PyTorch/
 
 ## Some eye pleasing stuffs
 
-<img src="https://github.com/iVishalr/MNIST-PyTorch/blob/main/images/Capture1.PNG" width="300px" height = "300px" alt="MNIST digits"></img>
+<img src="https://github.com/iVishalr/MNIST-PyTorch/blob/main/images/Capture1.PNG" width="600px" height = "300px" alt="MNIST digits"></img>
 
-<img src="https://github.com/iVishalr/MNIST-PyTorch/blob/main/images/Capture2.png" width="300px" height = "300px" alt="MNIST digits"></img>
+<img src="https://github.com/iVishalr/MNIST-PyTorch/blob/main/images/Capture2.PNG" width="600px" height = "300px" alt="MNIST digits"></img>
 
-<img src="https://github.com/iVishalr/MNIST-PyTorch/blob/main/images/Capture3.png" width="300px" height = "300px" alt="MNIST digits"></img>
+<img src="https://github.com/iVishalr/MNIST-PyTorch/blob/main/images/Capture3.PNG" width="600px" height = "300px" alt="MNIST digits"></img>
 
-<img src="https://github.com/iVishalr/MNIST-PyTorch/blob/main/images/Capture4.png" width="300px" height = "300px" alt="MNIST digits"></img>
+<img src="https://github.com/iVishalr/MNIST-PyTorch/blob/main/images/Capture4.PNG" width="600px" height = "300px" alt="MNIST digits"></img>
 
-<img src="https://github.com/iVishalr/MNIST-PyTorch/blob/main/images/Capture5.png" width="300px" height = "300px" alt="MNIST digits"></img>
+<img src="https://github.com/iVishalr/MNIST-PyTorch/blob/main/images/Capture5.PNG" width="600px" height = "300px" alt="MNIST digits"></img>
 
-<img src="https://github.com/iVishalr/MNIST-PyTorch/blob/main/images/Capture6.png" width="300px" height = "300px" alt="MNIST digits"></img>
+<img src="https://github.com/iVishalr/MNIST-PyTorch/blob/main/images/Capture6.PNG" width="600px" height = "300px" alt="MNIST digits"></img>
 
 ## License
 
