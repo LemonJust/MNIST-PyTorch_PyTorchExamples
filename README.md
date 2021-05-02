@@ -1,6 +1,6 @@
 # MNIST - PyTorch
 
-<p align="center>
+<p align="center">
 <img src="https://github.com/iVishalr/MNIST-PyTorch/blob/main/images/1000Images.PNG" width="600px" height = "300px" alt="MNIST digits"></img>
 </p>
 
