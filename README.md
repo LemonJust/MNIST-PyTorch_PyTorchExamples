@@ -31,7 +31,7 @@ This will start training the model from scratch depending on the training config
 
 I have trained the model for 40 epochs in total. Training time was about 2 mins on my RTX 3080 GPU. However, training time depends on your hardware specifications.
 
-The trained model is available [here](https://github.com/iVishalr/MNIST-PyTorch/blob/main/models/).
+The trained model is available [here](https://github.com/iVishalr/MNIST-PyTorch/blob/main/models/). This model achieves a test accuracy of 99.015% and a train accuracy of 99.56%. 
 
 ## Some eye pleasing stuffs
 
