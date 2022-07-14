@@ -4,6 +4,8 @@
 <img src="https://github.com/iVishalr/MNIST-PyTorch/blob/main/images/1000Images.PNG" width="600px" height = "300px" alt="MNIST digits"></img>
 </p>
 
+A repository linked in the following discussion : Errors when using num_workers>0 in DataLoader ( and low GPU usage on Windows ) https://discuss.pytorch.org/t/errors-when-using-num-workers-0-in-dataloader/97564/4 
+
 This repository contains code for training a LeNet-5 like Convnet on MNIST handwritten digits. 
 
 ## Requirements
